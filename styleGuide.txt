@@ -8,9 +8,9 @@ Green           #2BC713
 
 Blue            #279593
 
-Lighter Gray    #4C4C4C
+Lighter Gray    #4C4C4C  Update: Remove
 
-Darker Gray     #333333  This will probably be updated.
+Darker Gray     #333333  This will probably be updated. Update: Change to black
 
 
 Typography
@@ -25,8 +25,6 @@ Copyright logo, GNU AGPL
 
 Header ASCII
 
-Console scipt
-
 Contact Method/s(individually)
 
 
@@ -34,9 +32,7 @@ Organisms
 --------------------------------------------------------
 Combined logo and contact methods
 
-Console w/HTML and formatting
-
-Functions?
+Neofetch areas
 
 
 Template
@@ -45,7 +41,6 @@ Template
    ---------------------------------------------------------------------------------------------
     -  NAV AREA
 3em -  
-    -  Or explanation of the console depending on format
    ---------------------------------------------------------------------------------------------
 
    ---------------------------------------------------------------------------------------------
@@ -67,7 +62,7 @@ Template
    ---------------------------------------------------------------------------------------------
     -                                                        -
     -                                                        -
-5-  - SKILLS, BOOOIII                                    7em - CONSOLE ZONE
+5-  - SKILLS, BOOOIII                                        - 
 7em -                                                        -
     -                                                        -
     -                                                        -
