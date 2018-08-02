@@ -10,13 +10,17 @@ Blue            #279593
 
 Lighter Gray    #4C4C4C  Update: Remove
 
-Darker Gray     #333333  This will probably be updated. Update: Change to black
+Darker Gray     #000000  
 
 
 Typography
 -------------------------------------------------------
-Terminess is packaged into a webkit.
-If that is not viable Source Code Pro from Google
+Source Code Pro & Inconsolata from Google
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Source+Code+Pro" <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Source+Code+Pro:400,700" rel="stylesheet">
+
+font-family: 'Source Code Pro', monospace;
+font-family: 'Inconsolata', monospace;
 
 
 Atoms
@@ -49,7 +53,7 @@ Template
     -                                                        - This will contain info in   
 6em - Is in ASCII                                        6em - 
     -                                                        - Neofetch style if not included in 
-    -                                                        - Console
+    -                                                        -
    ---------------------------------------------------------------------------------------------
 
    ---------------------------------------------------------------------------------------------
@@ -74,5 +78,14 @@ Template
     -
 5em - Github, Twitter, Email, LinkedIN 
     - (Reddit?)
-    -
+    - Mastodon
    ---------------------------------------------------------------------------------------------
+
+
+
+    ____           _                   __                   ______                   __          
+   / __ \  ___    (_)   ____   ___    / /__  ___           / ____/  __  __  _____   / /_    _____
+  / /_/ / / _ \  / /   / __ \ / _ \  / //_/ / _ \         / /_     / / / / / ___/  / __ \  / ___/
+ / _, _/ /  __/ / /   / / / //  __/ / ,<   /  __/        / __/    / /_/ / / /__   / / / / (__  ) 
+/_/ |_|  \___/ /_/   /_/ /_/ \___/ /_/|_|  \___/        /_/       \__,_/  \___/  /_/ /_/ /____/  
+                                                                                                 
