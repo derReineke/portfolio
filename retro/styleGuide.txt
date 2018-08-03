@@ -8,8 +8,6 @@ Green           #2BC713
 
 Blue            #279593
 
-Lighter Gray    #4C4C4C  Update: Remove
-
 Darker Gray     #000000  
 
 
