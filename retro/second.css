@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 18px;
+    line-height: 1.8em;
+  }
+
+.page {
+    font-size: 100%;
+}
+
+body {
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.ASCII p,
+.neofetch-desktop p,
+.neofetch-laptop p,
+.hard_skills p,
+.soft_skills p {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.reineke {
+    width: 75%;
+    display: block;
+}
+.neofetch {
+    width: 60%;
+    display: block;
+}
+
+.reineke,
+.neofetch {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.hard_skills ul,
+.soft_skills ul {
+    list-style-type: circle;
+}
+
+.dots,
+.tilde,
+.percentage {
+    margin-left: 15px;
+}
+.dots,
+.tilde,
+.percentage,
+.neofetch-command {
+    display: inline;
+}
+.neofetch-command {
+    margin-left: 20px;
+}
+.dots {
+    color: #DD82E8;
+}
+.tilde {
+    color: 	#2C75FF;
+}
+.percentage {
+    color: #2BC713;
+}
+
+
+.social-links {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.social-links div {
+    padding: 10px;
+}
+
+.github, 
+.mastodon {
+    width: 34px;
+    height: 34px;
+    margin-bottom: 5px;
+}
+.protonmail {
+    width: 34px;
+    height: 37px;
+    margin-bottom: 5px;
+}
+.linkedin {
+    width: 40px;
+    height: 34px;
+    margin-bottom: 5px;
+}
+.social-links p {
+    font-size: 14px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.social-links div {
+    align-content: center;
+}
+
+.copyright {
+    align-items: center;
+    margin-top: 50px;
+}
+.copyright-logo {
+    width: 100px;
+    height: 100%;
+    margin-left: 50px;
+    background-color: white;
+}
+.copyright-date {
+    font-size: 12px;
+    display: inline;
+}
