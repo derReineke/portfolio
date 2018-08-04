@@ -21,6 +21,7 @@ Atoms
 -Logo
 -Copyright Logo
 -Social Icons
+-Information sections
 
 
 Molecules
@@ -40,15 +41,18 @@ Organisms
                     Logo and Name
 
                                         Basic Information
+
                                         
+                                        Corporate Philosophy
+
 
                                         Design Principles
 
 
-                                        Philosophy
+                                        Philosophy of Reineke
 
 
-                                        Interests
+                                        Interests of Reineke
 
 
 
