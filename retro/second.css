@@ -14,7 +14,8 @@
 body {
     background-color: black;
     color: white;
-    margin-left: 50px;
+    padding: 30px 40px 30px 40px;
+    border: 75px solid #413F3E;
 }
 
 header {
