@@ -1,0 +1,57 @@
+Metro Webpage for Reineke Fuchs
+-------------------------------
+lang = "de"
+
+
+Typography
+-------------------------------
+
+font-feature-settings: normal;
+text-ren­der­ing: op­ti­mize­Leg­i­bil­ity;
+
+Helvetica
+font-family: 'Roboto', sans-serif;
+
+
+
+Atoms
+-------------------------------
+
+-Reineke Fuchs Name
+-Logo
+-Copyright Logo
+-Social Icons
+
+
+Molecules
+-------------------------------
+
+-Name and Logo Together
+-Copyright Section
+-Social Icons with Words
+
+
+Organisms
+-------------------------------
+
+-Social Icon Section
+
+
+                    Logo and Name
+
+                                        Basic Information
+                                        
+
+                                        Design Principles
+
+
+                                        Philosophy
+
+
+                                        Interests
+
+
+
+                                        Social Logos
+
+                                        Copyright
