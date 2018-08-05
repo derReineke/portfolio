@@ -31,6 +31,11 @@ nav {
   position: absolute;
 }
 
+.party-time {
+  margin-top: 3em;
+  color: #2c75ff;
+}
+
 .party-parrots {
   display: inline-flex;
   margin-top: 2em;
@@ -43,12 +48,44 @@ nav {
   margin-right: 1em;
 }
 
+.command-line,
+.command-line-bottom {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.parameters {
+  margin-left: 1em;
+}
+
+.tilde {
+  margin-left: .2em;
+}
+.percentage {
+  margin-left: 1em;
+  margin-right: 2em;
+}
+
+
+.date {
+  display: flex;
+  margin-top: 5em;
+}
+
+.command-line {
+  margin-bottom: 10em;
+}
+
 @media only screen and (max-width: 500px) {
   * {
     font-size: 1em;
   }
   nav {
-    padding-left: 1em;
+    justify-content: center;
+
+  }
+  .page {
+    justify-content: center;
   }
   body {
     border: 1em solid #413f3e;
@@ -58,6 +95,20 @@ nav {
     justify-content: flex-start;
     display: flex;
     flex-wrap: wrap;
+  }
+  button {
+    justify-content: center;
+  }
+
+  .command-line {
+    width: 90%;
+    margin-bottom: 2em;
+  }
+
+  .ASCII img {
+    width: 100%;
+    margin-top: 0;
+    display: flex;
   }
 }
 
@@ -78,14 +129,6 @@ nav {
 .soft_skills p {
   margin-bottom: 1.1111111111em;
   margin-top: 2.7777777778em;
-}
-
-header img,
-.neofetch-desktop img {
-  width: 80%;
-  display: flex;
-  padding-left: 1em;
-  padding-right: 1em;
 }
 
 .reineke,
@@ -113,11 +156,6 @@ ul {
   list-style-type: none;
 }
 
-.dots,
-.tilde,
-.percentage {
-  margin-left: 0.6em;
-}
 
 .dots,
 .tilde,
@@ -126,9 +164,6 @@ ul {
   display: inline-flex;
 }
 
-.neofetch-command {
-  margin-left: 1.1111111111em;
-}
 
 .dots {
   color: #dd82e8;
@@ -199,6 +234,13 @@ ul {
 
 .copyright-date {
   font-size: 0.6666666667em;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-right: 1em;
 }
 
 /*# sourceMappingURL=third.css.map */
