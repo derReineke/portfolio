@@ -1,0 +1,101 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 25px;
+  line-height: 2.8em;
+}
+
+@media only screen and (max-width: 600px) {
+  header,
+  main {
+    padding: 0;
+  }
+}
+
+
+h1 {
+ /* font-family: "Oswald", sans-serif;*/
+  font-size: 40px;
+}
+
+h2 {
+  /*font-family: "Oswald", sans-serif;*/
+  font-size: 35px;
+  margin-bottom: 1em;
+}
+
+h4 {
+  font-size: 30px;
+  margin-bottom: 1em;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  padding: 4em;
+  flex-wrap: wrap;
+  flex-direction: column;
+  border-bottom: .2em solid black;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex-direction: column;
+  margin: 2em auto auto auto;
+  padding: 2em 20em 2em 20em; 
+}
+
+section {
+  margin-bottom: 5em;
+}
+
+.form-header {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex-direction: column;
+  margin: auto;
+  padding: 0 20em 2em 20em;
+}
+
+form {
+  width: 50em;
+  margin: auto;
+  padding: 0 20em 2em 15em;
+}
+
+.form-row {
+  flex-wrap: wrap;
+  display: inline-flex;
+  padding: .5em;
+  background-color: #F6F7F8;
+}
+
+input:required {
+  box-shadow: none;
+}
+
+.social {
+  margin: auto;
+  width: 30em;
+  flex-direction: column;
+}
+
+.twitter-logo {
+  width: 50px;
+  height: 100%;
+  margin: auto 1em auto 10em;
+}
+
+.linkedin-logo {
+  width: 55px;
+  height: 85%;
+  padding-bottom: .2em;
+}
+
+/*# sourceMappingURL=main.css.map */
