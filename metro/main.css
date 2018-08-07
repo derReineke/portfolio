@@ -8,13 +8,6 @@
   line-height: 2.8em;
 }
 
-@media only screen and (max-width: 600px) {
-  header,
-  main {
-    padding: 0;
-  }
-}
-
 
 h1 {
  /* font-family: "Oswald", sans-serif;*/
@@ -98,4 +91,47 @@ input:required {
   padding-bottom: .2em;
 }
 
-/*# sourceMappingURL=main.css.map */
+@media only screen and (max-width: 900px) {
+  * {
+    font-size: 1em;
+  }
+  main,
+  header  {
+    margin: 0;
+    padding: 2em;
+  }
+  header {
+    padding-bottom: 2em;
+  }
+
+  .form-header,
+  form {
+    margin: 0;
+    padding: .5em 2em 2em 2em;
+  }
+
+  .social {
+    margin-top: 1em;
+  }
+
+  form,
+  .social {
+    max-width: 15em;
+  }
+
+  .twitter-logo,
+  .linkedin-logo {
+    display: inline;
+    padding: 0;
+    margin: .5em 2em 0 0;
+  }
+  .linkedin-logo {
+    padding-bottom: .3em;
+  }
+
+  h1,
+  h2,
+  h4 {
+    line-height: 1.5em;
+  }
+}
