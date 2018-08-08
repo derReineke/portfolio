@@ -117,49 +117,49 @@ $(document).ready(function(){
         $('html, body').animate({
             scrollTop: $(".neofetch").offset().top
         }, 'fast');
-    }, 5000);
+    }, 6000);
 
     setTimeout(function() {
         $('.neofetch-desktop').toggle();
         $('html, body').animate({
             scrollTop: $(".neofetch-desktop").offset().top
         }, 'fast');
-    }, 5500);
+    }, 9000);
 
     setTimeout(function() {
         $('.neofetch-laptop').toggle();
         $('html, body').animate({
             scrollTop: $(".neofetch-laptop").offset().top
         }, 'fast');
-    }, 6000);
+    }, 12000);
 
     setTimeout(function() {
         $('.hard_skills').toggle();
         $('html, body').animate({
             scrollTop: $(".hard_skills").offset().top
         }, 'fast');
-    }, 6500);
+    }, 15000);
 
     setTimeout(function() {
         $('.soft_skills').toggle();
         $('html, body').animate({
             scrollTop: $(".soft_skills").offset().top
         }, 'fast');
-    }, 7000);
+    }, 18000);
 
     setTimeout(function() {
         $('.social-links').toggle();
         $('html, body').animate({
             scrollTop: $(".social-links").offset().top
         }, 'fast');
-    }, 7500);
+    }, 21000);
 
     setTimeout(function() {
         $('.command-line-bottom').toggle();
-    }, 8000);
+    }, 24000);
 
     setTimeout(function() {
         $('.copyright').toggle();
-    }, 8500);
+    }, 28000);
 
  }
