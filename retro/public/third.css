@@ -7,6 +7,10 @@
   line-height: 1.8em;
 }
 
+html {
+  font-size: 1em;
+}
+
 body {
   background-color: black;
   color: white;
@@ -78,6 +82,8 @@ nav {
 
 .section {
   margin-bottom: 1.6666666667em;
+  flex-wrap: wrap;
+  max-width: 100%;
 }
 
 .ASCII p,
@@ -118,6 +124,24 @@ ul {
   list-style-type: none;
 }
 
+.firstWord {
+  color: #2c75ff;
+}
+.firstWord2 {
+  color: #2bc713;
+}
+.firstWord3 {
+  color: #dd82e8;
+}
+.headWord {
+  color: #2c75ff;
+}
+.amp {
+  color: #dd82e8;
+}
+.headWord2 {
+  color: #2bc713;
+}
 
 .dots,
 .tilde,
@@ -248,6 +272,9 @@ button {
 @media only screen and (min-width: 601px) {
   .neofetch {
     width: 50em;
+  }
+  * {
+    font-size: 1.1em;
   }
 }
 /*# sourceMappingURL=third.css.map */
