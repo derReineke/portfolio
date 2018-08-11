@@ -51,6 +51,10 @@ $(document).ready(function(){
             scrollTop: $(".social-links").offset().top
         }, 'fast');
     });
+
+    setTimeout(function() {
+        alert("Professional inquiries will receive my actual resume.");
+    }, 28000);
  });
 
 
