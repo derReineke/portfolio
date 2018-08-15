@@ -1,0 +1,62 @@
+Metro Webpage for Reineke Fuchs
+-------------------------------
+lang = "de"
+
+
+Typography
+-------------------------------
+
+font-feature-settings: normal;
+text-ren­der­ing: op­ti­mize­Leg­i­bil­ity;
+
+Helvetica
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700|Oswald" rel="stylesheet">
+
+
+
+Atoms
+-------------------------------
+
+-Reineke Fuchs Name
+-Logo
+-Copyright Logo
+-Social Icons
+-Information sections
+
+
+Molecules
+-------------------------------
+
+-Name and Logo Together
+-Copyright Section
+-Social Icons with Words
+
+
+Organisms
+-------------------------------
+
+-Social Icon Section
+
+
+                    Logo and Name
+
+                                        Basic Information
+
+                                        
+                                        Corporate Philosophy
+
+
+                                        Design Principles
+
+
+                                        Philosophy of Reineke
+
+
+                                        Interests of Reineke
+
+
+
+                                        Social Logos
+
+                                        Copyright
