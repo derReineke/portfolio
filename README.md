@@ -1,2 +1,2 @@
 # portfolio
-The code for my old portfolio.
+The code for my original portfolio.
